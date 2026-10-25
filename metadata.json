@@ -1,0 +1,7 @@
+{
+  "name": "ClimateLens — Climate Change Data Visualization Platform",
+  "description": "Scientific climate intelligence platform to explore, visualize, and compare global climate change data, indicators, and planetary risks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
