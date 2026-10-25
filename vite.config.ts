@@ -6,7 +6,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
-    base: '/Climate-Lens-Platform/',
+    base: process.env.GITHUB_ACTIONS ? '/Climate-Lens-Platform/' : '/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
