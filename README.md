@@ -4,7 +4,7 @@ Understand a changing planet. Explore climate data. Discover insights for a sust
 
 ClimateLens is an interactive climate data platform for exploring global climate indicators, comparing regional trends, visualizing environmental changes, and generating AI-powered climate insights.
 
-🔗 **Live Demo:** https://climatelens-platform.onrender.com
+🔗 **Live Demo:** https://climate-lens-platform.onrender.com
 
 ---
 
